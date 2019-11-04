@@ -1,0 +1,1 @@
+echo Quality Gate the project : %date% = %time%"
